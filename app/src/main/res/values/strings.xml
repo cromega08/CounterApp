@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="title">Quantity</string>
+    <string name="count">0</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+</resources>
